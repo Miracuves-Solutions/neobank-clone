@@ -2,10 +2,10 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxneobank.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/neobank-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/neobank-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/neobank-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/neobank-clone/#features)
 
-**MXNeoBank** is a production-ready, white-label Neobank clone: a complete neobank with multi-currency accounts, cards, KYC/AML, and admin console — delivered with **100% source code ownership** in **6 working days**.
+**mxneobank** is a production-ready, white-label Neobank clone: a complete neobank with multi-currency accounts, cards, KYC/AML, and admin console — delivered with **100% source code ownership** in **6 working days**.
 
 > 🏦 **See it running before you talk to anyone.** Live user app, admin console, and compliance dashboard — demo credentials are printed on the [solution page](https://miracuves.com/neobank-clone#demo). No sales call required.
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$21,999**, transparent on the [solution page](https://miracuves.com/neobank-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$21,999**, transparent on the [solution page](https://miracuves.com/neobank-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom neobanks run $300k–$2M and 9–24 months. A proven white-label base get
 ## 📚 Resources
 
 - 📖 [Neobank Clone — Full Solution Page](https://miracuves.com/neobank-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Neobank Cost in 2026?](https://miracuves.com/neobank-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Neobank Clone Script in 2026](https://miracuves.com/neobank-clone/blog/) features, pricing & launch guide
-- 🧠 [KYC/AML Stack for Licensed Fintechs](https://miracuves.com/neobank-clone/blog/) providers, flows, ongoing monitoring
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/neobank-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Neobank Cost in 2026?](https://miracuves.com/neobank-clone#features) pricing breakdown & what's included
+- 📝 [Best Neobank Clone Script in 2026](https://miracuves.com/neobank-clone#features) features, pricing & launch guide
+- 🧠 [KYC/AML Stack for Licensed Fintechs](https://miracuves.com/neobank-clone#features) providers, flows, ongoing monitoring
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/neobank-clone#faq) every claim we make, verified
+- 💻 [Neobank Clone — Technical Stack](https://miracuves.com/neobank-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Neobank Clone — How It Works / User Flow](https://miracuves.com/neobank-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom neobanks run $300k–$2M and 9–24 months. A proven white-label base get
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/neobank-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/neobank-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: neobank clone, neobank clone script, digital banking, neobank, fintech platform, white label banking, KYC AML, Flutter banking app, Node.js fintech*
 
@@ -106,7 +108,7 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Neobank Clone
-{MX_NAME}         MXNeoBank
+{MX_NAME}         mxneobank
 {CATEGORY}        Digital Banking & Finance Platform
 {DEMO_WEB}        mxneobank.mimeld.com
 {PRICE}           $21,999
